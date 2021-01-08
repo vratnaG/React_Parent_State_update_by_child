@@ -4,6 +4,6 @@ how to change the parent state by the child component. Functional component and 
 
 Install docker
 
-run command docker-compose docker-compose.yaml
+run command docker-compose -f docker-compose.yaml
 
 open localhost:3000 in your browser
